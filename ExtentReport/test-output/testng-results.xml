@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T19:27:01 IST" name="Default suite" finished-at="2023-08-04T19:27:07 IST" duration-ms="5945">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T19:27:01 IST" name="Default test" finished-at="2023-08-04T19:27:07 IST" duration-ms="5945">
+      <class name="extentReportExmp.ExtentReportExample">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:extentReportExmp.ExtentReportExample@33065d67]" started-at="2023-08-04T19:26:58 IST" name="launchBrowser" finished-at="2023-08-04T19:27:01 IST" duration-ms="3835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="openBing()[pri:0, instance:extentReportExmp.ExtentReportExample@33065d67]" started-at="2023-08-04T19:27:02 IST" name="openBing" finished-at="2023-08-04T19:27:04 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBing -->
+        <test-method signature="openGoogle()[pri:0, instance:extentReportExmp.ExtentReportExample@33065d67]" started-at="2023-08-04T19:27:04 IST" name="openGoogle" finished-at="2023-08-04T19:27:06 IST" duration-ms="2213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method signature="openWikipedia()[pri:0, instance:extentReportExmp.ExtentReportExample@33065d67]" started-at="2023-08-04T19:27:06 IST" name="openWikipedia" finished-at="2023-08-04T19:27:07 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWikipedia -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:extentReportExmp.ExtentReportExample@33065d67]" started-at="2023-08-04T19:27:07 IST" name="CloseBrowser" finished-at="2023-08-04T19:27:08 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- extentReportExmp.ExtentReportExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
